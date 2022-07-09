@@ -108,6 +108,18 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Jace",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
